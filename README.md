@@ -13,3 +13,6 @@ Este repositório contém o código-fonte de um conversor de moedas em Java. O p
 ### Contribuições
 
 Sinta-se à vontade para contribuir com este projeto reportando bugs, sugerindo melhorias ou fornecendo código adicional.
+
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
