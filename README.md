@@ -3,7 +3,7 @@
 
 Este repositório contém o código-fonte de um conversor de moedas em Java. O programa utiliza a API Exchangerate-api.com para obter taxas de câmbio em tempo real e permite que os usuários convertam valores entre diferentes moedas.
 
-### Funcionalidades:
+### Funcionalidades
 
 * Conversão de moedas entre USD, BRL, EUR, ARS e CNY.
 * Interface de menu amigável para facilitar a navegação.
@@ -14,5 +14,5 @@ Este repositório contém o código-fonte de um conversor de moedas em Java. O p
 
 Sinta-se à vontade para contribuir com este projeto reportando bugs, sugerindo melhorias ou fornecendo código adicional.
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
+![Bagde 1](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bagde 2](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
