@@ -5,7 +5,7 @@ Este repositório contém o código-fonte de um conversor de moedas em Java. O p
 
 ## funcionalidades:
 
-*Conversão de moedas entre USD, BRL, EUR, ARS e CNY.
-*Interface de menu amigável para facilitar a navegação.
-*Obter taxas de câmbio em tempo real da Exchangerate-api.com.
-*Validação de entrada do usuário para garantir dados precisos.
+* Conversão de moedas entre USD, BRL, EUR, ARS e CNY.
+* Interface de menu amigável para facilitar a navegação.
+* Obter taxas de câmbio em tempo real da Exchangerate-api.com.
+* Validação de entrada do usuário para garantir dados precisos.
